@@ -15,7 +15,7 @@ Adrian's [PyImageSearch](imagesearch.com) has been a great starting point for le
 ### Contents:
 1. **Convolutions**: Comprises of Python Code, designed for analysis of fatiguing in materials and different componenets being manufactured. Soon to be spun off into a standalone project. This code has been coupled with TensorFlow, for a fracture detection project. Will be updating the code soon here.
 
-2.**Face Recognition**: Code developed to recognize faces from images. Has to be tuned to read facial features much more accurately. Lots of scope left for development.
+2. **Face Recognition**: Code developed to recognize faces from images. Has to be tuned to read facial features much more accurately. Lots of scope left for development.
 
 3. **Kerneler**: First code added to the repository. Comprises of fundamental concepts seen in other projects within this repository. Continuously use concepts here in other projects.
 
